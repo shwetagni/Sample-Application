@@ -13,5 +13,6 @@
   height: 0.6cm;
   border: 5px black;
   background-color: blue;
-  margin-left: -35px !important;
+  margin-top: 10px;
+  margin-right: 10px;
 }
